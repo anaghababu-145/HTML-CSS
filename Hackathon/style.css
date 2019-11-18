@@ -1,0 +1,158 @@
+a{
+  text-decoration: none;
+  color: gray;
+
+}
+.index1
+{
+  background-color: gainsboro;
+    width: 1567px;
+    position: absolute;
+    top: 138px;
+    height: 611%;
+}
+.bt
+{
+  position: absolute;
+    left: 1125px;
+    top: 205px;
+    height: 43px;
+    width: 220px;
+    background-color: #008080;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+}
+.id1
+{
+  position: absolute;
+    left: 70px;
+    width: 90%;
+    /* background-color: silver; */
+    top: 500;
+    background-color: white;
+    height: 65px;
+}
+.ic1
+{
+  top: 13px;
+    border-left: 1px solid gray;
+    height: 40px;
+    position: absolute;
+    left: 345px;
+}
+.ic2
+{
+  top: 13px;
+    border-left: 1px solid gray;
+    height: 40px;
+    position: absolute;
+    left: 660px;
+}
+.ic3
+{
+  top: 13px;
+    border-left: 1px solid gray;
+    height: 40px;
+    position: absolute;
+    left: 1010px;
+}
+.bd
+{
+  background-color: white;
+    width: 20%;
+    height: 207px;
+    position: absolute;
+    top: 1246px;
+    left: 135px;
+    padding-left: 35px;
+}
+.checked {
+  color: orange;
+}
+.bd1
+{
+  background-color: white;
+    width: 20%;
+    height: 207px;
+    position: absolute;
+    top: 2335px;
+    left: 135px;
+    padding-left: 35px;
+}
+.index2
+{
+  background-color: lightgrey;
+    width: 1567px;
+    position: absolute;
+    top: 2858px;
+    height: 1250px;
+}
+.bd2
+{
+  background-color: none;
+    width: 20%;
+    height: 255px;
+    position: absolute;
+    top: 160px;
+    left: 50px;
+    padding-left: 35px;
+}
+.bd3
+{
+  background-color: none;
+    width: 20%;
+    height: 255px;
+    position: absolute;
+    top: 160px;
+    left: 590px;
+    padding-left: 35px;
+}
+.bd4
+{
+  background-color: none;
+    width: 20%;
+    height: 255px;
+    position: absolute;
+    top: 160px;
+    left: 1150px;
+    padding-left: 35px;
+}
+.bd5
+{
+  background-color: #008080;
+    width: 50%;
+    height: 200px;
+    position: absolute;
+    top: 30;
+    left: 360px;
+
+}
+.index3{
+  background-color: white;
+    width: 1567px;
+    position: absolute;
+    top: 4118px;
+    height: 270px;
+}
+.bt1
+{
+  position: absolute;
+    left: 265px;
+    top: 125px;
+    height: 43px;
+    width: 220px;
+    background-color: #00FFFF;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+}
+.index4{
+  background-color: gainsboro;
+    width: 1567px;
+    position: absolute;
+    top: 4400px;
+    height: 815;
+}
